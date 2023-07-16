@@ -1,2 +1,3 @@
-# Gym_Website
-A Gym Website Made For Learning purpose using Html, Css, Taiwind Css.
+<h1>Hello Guys This Is A Dummy Gym Website...</h1>
+<h2>Technology Used : HTML, CSS, TailwindCSS</h2>
+
