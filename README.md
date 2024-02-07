@@ -2,6 +2,7 @@
 
 A website designed for a gym which will be a way to get admission in gym also gives information about gym like adress, email etc.
 it also showcases the gallery section which will give visitors a brief view of innerside of the gym. also provides functionality to contact gym via contact us module. 
+
 ## Tech & Tools
 
 **Client:** Html, Css, TailwindCSS
