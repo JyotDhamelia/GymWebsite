@@ -1,25 +1,31 @@
-# Gym Website
+# GymWebsite
 
-A website designed for a gym which will be a way to get admission in gym also gives information about gym like adress, email etc.
-it also showcases the gallery section which will give visitors a brief view of innerside of the gym. also provides functionality to contact gym via contact us module. 
+![Annotation 2024-10-12 110646](https://github.com/user-attachments/assets/f7ba192b-40ae-4c1f-91af-d4028af449e9)
 
-## Tech & Tools
+# Live Demo
+- https://jyot-gym-website.vercel.app / https://jyot-gym-jyotdhameliagmailcoms-projects.vercel.app
+# Overview
+- A static gym website which showcases the dummy gym. it has some good features like gallery section which showcases the photos of the gym. it has contact us form which directly connects you to gym management with an email. it also has enrollment form which will help it's users to become customers.
 
-**Client:** Html, Css, TailwindCSS
+# Technology
+- Html & CSS
 
-**Server:** Vercel
+# Features
+- Gallery section: it showcases the photos of the gym so that users will get easy way to see the gym online.
 
-## Color Reference
+  ![Annotation 2024-10-12 112003](https://github.com/user-attachments/assets/8487f677-7c77-404e-bce3-c71976b24a3e)
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| Example Color | ![#111827](https://via.placeholder.com/10/111827?text=+) #111827 |
-| Example Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| Example Color | ![#6366F1](https://via.placeholder.com/10/6366F1?text=+) #6366F1 |
+- Contact us form: it helps users to contact the management of the gym for solving their doubts online via email.
+- Enroll now form: it helps users to become the member in gym this form will email all the data to the management.
 
+  ![Annotation 2024-10-12 112306](https://github.com/user-attachments/assets/a3ed979c-a823-4aa9-b419-c7fa313dc025)
 
-## Feedback
+# Get Started
+- To get satrted with TaskTracker follow this steps:
+ 1. Clone the Repository: `https://github.com/JyotDhamelia/GymWebsite.git`
+ 2. Navigate to the project directory: `GymWebsite`
+ 3. Click on: `Index.html`
+ 4. Right click and select option of `View in Browser`
 
-If you have any feedback, please reach out to us at jyotdhamelia@gmail.com
-
+# License
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
